@@ -45,3 +45,4 @@ Player: Unknown, Function: play_turn, Time taken: 102.4 sec
 Player: Unknown, Function: play_turn, Time taken: 2.11 sec
 Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
 Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
+Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
