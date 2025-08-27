@@ -1,48 +1,124 @@
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 43.79 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 29.25 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 53.55 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 44.18 sec
-Player: Unknown, Function: play_turn, Time taken: 0.92 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 46.11 sec
-Player: Unknown, Function: play_turn, Time taken: 0.89 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 19.51 sec
-Player: Unknown, Function: play_turn, Time taken: 0.86 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 20.91 sec
-Player: Unknown, Function: play_turn, Time taken: 0.94 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 77.08 sec
-Player: Unknown, Function: play_turn, Time taken: 0.95 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 51.16 sec
-Player: Unknown, Function: play_turn, Time taken: 1.32 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 91.98 sec
-Player: Unknown, Function: play_turn, Time taken: 1.31 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 54.94 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 45.18 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Player.username, Function: draw_tiles, Time taken: 0.0 sec
-Player: Player.username, Function: play_turn, Time taken: 36.43 sec
-Player: Player.username, Function: draw_tiles, Time taken: 0.0 sec
-Player: Player.username, Function: play_turn, Time taken: 198.7 sec
-Player: Player.username, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: play_turn, Time taken: 102.4 sec
-Player: Unknown, Function: play_turn, Time taken: 2.11 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
-Player: Unknown, Function: draw_tiles, Time taken: 0.0 sec
+Player: Francis Kimani, Function: draw_tiles, Time taken: 0.0 sec
+Player: Francis Kimani, Function: draw_tiles, Time taken: 0.0 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 43.79 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 0.05 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 104.78 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 0.05 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 35.09 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 0.06 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 131.99 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 0.03 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 229.03 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 0.05 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 139.47 sec
+Player: Francis Kimani, Function: play_turn, Time taken: 0.05 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 23.73 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 26.53 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 59.23 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 75.44 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 49.01 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 54.93 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 30.53 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 84.08 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 12.51 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 23.9 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 22.9 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 55.47 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 63.72 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 30.73 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 29.18 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 121.87 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.33 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 205.56 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.36 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 33.54 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.35 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 41.08 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.04 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 53.47 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.02 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 201.78 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.04 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 25.79 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.04 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 49.24 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.04 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 78.44 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.03 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 37.31 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.05 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 45.98 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.05 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 30.42 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.05 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 88.36 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.05 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 28.58 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.04 sec
+Player: Paul Kamau, Function: draw_tiles, Time taken: 0.0 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 87.52 sec
+Player: Paul Kamau, Function: play_turn, Time taken: 0.04 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 13.12 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 18.77 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 15.84 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 26.49 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 201.69 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 0.38 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 59.1 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 0.65 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 39.85 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 0.36 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 46.9 sec
+Player: Kennedy Mwangi, Function: draw_tiles, Time taken: 0.0 sec
+Player: Kennedy Mwangi, Function: play_turn, Time taken: 0.36 sec

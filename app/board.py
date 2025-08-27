@@ -120,7 +120,7 @@ class Board:
 
     #         board_letter = self.grid[r][c]
 
-    #         # ✅ Check for conflict
+    #         #  Check for conflict
     #         if board_letter and board_letter != ch:
     #             if dry_run:
     #                 return None
@@ -232,7 +232,32 @@ class Board:
 
     
 
+    # def display(self):
+    #     """Print board with letters or '.' for empty cells"""
+    #     for row in self.grid:
+    #         print(" ".join(ch if ch else "." for ch in row))
+
+    # def display(self):
+    #     """Print board with letters or '.' for empty cells, including row/column indexes."""
+    #     size = len(self.grid)
+        
+    #     # Print column headers
+    #     print("    " + " ".join(f"{i:2}" for i in range(size)))
+        
+    #     for idx, row in enumerate(self.grid):
+    #         # Print row index and row contents
+    #         print(f"{idx:2}  " + " ".join(ch if ch else "." for ch in row))
+
     def display(self):
-        """Print board with letters or '.' for empty cells"""
-        for row in self.grid:
-            print(" ".join(ch if ch else "." for ch in row))
+        """Print board with letters or '.' for empty cells, including row/column indexes, aligned."""
+        size = len(self.grid)
+        
+        # Print column headers with fixed width 3 per column (2 digits + space)
+        print("    " + " ".join(f"{i:2}" for i in range(size)))
+        
+        for idx, row in enumerate(self.grid):
+            # Print row index (2 spaces), then the row cells each padded to 2 spaces
+            row_str = " ".join(f"{ch if ch else '.':2}" for ch in row)
+            print(f"{idx:2}  {row_str}")
+
+

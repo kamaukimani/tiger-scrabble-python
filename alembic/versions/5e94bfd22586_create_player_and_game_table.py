@@ -1,18 +1,18 @@
-"""create tables
+"""create player and game table
 
-Revision ID: 134764dde238
+Revision ID: 5e94bfd22586
 Revises: 
-Create Date: 2025-08-26 19:36:57.887649
+Create Date: 2025-08-27 21:46:15.537707
 
 """
 from typing import Sequence, Union
 
 from alembic import op
 import sqlalchemy as sa
-
+from sqlalchemy.dialects import postgresql
 
 # revision identifiers, used by Alembic.
-revision: str = '134764dde238'
+revision: str = '5e94bfd22586'
 down_revision: Union[str, None] = None
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None
@@ -24,6 +24,7 @@ def upgrade() -> None:
     sa.Column('id', sa.BIGINT(), autoincrement=True, nullable=False),
     sa.Column('username', sa.String(), nullable=False),
     sa.Column('country', sa.String(), nullable=False),
+    sa.Column('password', sa.String(), nullable=True),
     sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=True),
     sa.PrimaryKeyConstraint('id'),
     sa.UniqueConstraint('username')
@@ -32,10 +33,13 @@ def upgrade() -> None:
     sa.Column('id', sa.BIGINT(), autoincrement=True, nullable=False),
     sa.Column('player_id', sa.BIGINT(), nullable=False),
     sa.Column('is_player_turn', sa.Boolean(), nullable=False),
-    sa.Column('board', sa.JSON(), nullable=False),
-    sa.Column('player1_rack', sa.JSON(), nullable=True),
-    sa.Column('player2_rack', sa.JSON(), nullable=True),
+    sa.Column('board', postgresql.JSONB(astext_type=sa.Text()), nullable=False),
+    sa.Column('player1_rack', postgresql.JSONB(astext_type=sa.Text()), nullable=True),
+    sa.Column('player2_rack', postgresql.JSONB(astext_type=sa.Text()), nullable=True),
     sa.Column('is_human_vs_human', sa.Boolean(), nullable=False),
+    sa.Column('human_score', sa.Integer(), nullable=True),
+    sa.Column('computer_score', sa.Integer(), nullable=True),
+    sa.Column('played_words', postgresql.JSONB(astext_type=sa.Text()), nullable=True),
     sa.Column('created_at', sa.DateTime(timezone=True), server_default=sa.text('now()'), nullable=True),
     sa.Column('updated_at', sa.DateTime(timezone=True), nullable=True),
     sa.ForeignKeyConstraint(['player_id'], ['player.id'], ),
